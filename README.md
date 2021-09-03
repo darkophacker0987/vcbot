@@ -3,6 +3,11 @@
 </p>
 
 
-🎶 Music Bot 🎶
+<h1 align="centre">🎶 Music Bot 🎶</h1>
 
-## Requirements 📝 - FFmpeg - NodeJS [nodesource.com](https://nodesource.com/) - Python 3.7+ - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+## Requirements 📝
+
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.7+
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
