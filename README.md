@@ -11,3 +11,6 @@
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
+
+[![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fdarkophacker0987%2Fvcbot&template=https%3A%2F%2Fgithub.com%2Fdarkophacker0987%2Fvcbot)
